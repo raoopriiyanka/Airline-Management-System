@@ -29,9 +29,6 @@ A Java-based desktop application simulating an airline ticket booking system. Th
 ├── Login.java
 ├── airline_db.sql
 
-## 📸 Screenshots
-*(Add screenshots of the GUI or ticket here if available)*
-
 ## 🤖 AI Assistance & Source Acknowledgement
 This project was developed with the help of:
 - **YouTube Tutorial:** ["https://youtu.be/KC9CeYs36uA?si=5o7H74889ZBeAsVI"]
