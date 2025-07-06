@@ -10,7 +10,7 @@ A Java-based desktop application simulating an airline ticket booking system. Th
 ## 📌 Features
 - User authentication (login)
 - Flight search and booking functionality
-- User Authentication and Ticket generation
+- Ticket generation and Cancellation
 - Simple, clean GUI for better usability
 
 ## 🚀 Getting Started
@@ -19,14 +19,17 @@ A Java-based desktop application simulating an airline ticket booking system. Th
 3. Import the provided MySQL database (`airline_db.sql`)
 4. Run the application
 
-## 📂 File Structure (Example)
-```
-├── Cancel.java
+## 📂 File Structure
+├── Login.java
+├── Home.java
 ├── Conn.java
 ├── FlightInfo.java
-├── Home.java
 ├── JourneyDetails.java
-├── Login.java
+├── AddCustomer.java
+├── BookFlight.java
+├── JourneyDetails.java
+├── BoardingPass.java
+├── Cancel.java
 ├── airline_db.sql
 
 ## 🤖 AI Assistance & Source Acknowledgement
