@@ -20,17 +20,17 @@ A Java-based desktop application simulating an airline ticket booking system. Th
 4. Run the application
 
 ## 📂 File Structure
-├── Login.java
-├── Home.java
-├── Conn.java
-├── FlightInfo.java
-├── JourneyDetails.java
-├── AddCustomer.java
-├── BookFlight.java
-├── JourneyDetails.java
-├── BoardingPass.java
-├── Cancel.java
-├── airline_db.sql
+1. Login.java
+2. Home.java
+3. Conn.java
+4. FlightInfo.java
+5. JourneyDetails.java
+6. AddCustomer.java
+7. BookFlight.java
+8. JourneyDetails.java
+9. BoardingPass.java
+10. Cancel.java
+11. airline_db.sql
 
 ## External Libraries
 This project uses the following external JARs:
