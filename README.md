@@ -32,6 +32,14 @@ A Java-based desktop application simulating an airline ticket booking system. Th
 ├── Cancel.java
 ├── airline_db.sql
 
+## External Libraries
+This project uses the following external JARs:
+* `jcalendar-1.4.jar`
+* `mysql-connector-java-8.0.26.jar`
+* `rs2xml.jar`
+Place all these files in the `/lib` directory before compiling.
+
+
 ## 🤖 AI Assistance & Source Acknowledgement
 This project was developed with the help of:
 - **YouTube Tutorial:** ["https://youtu.be/KC9CeYs36uA?si=5o7H74889ZBeAsVI"]
